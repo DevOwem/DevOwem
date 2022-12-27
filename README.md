@@ -1,2 +1,2 @@
-<div id="header" aling="center">
+<div id="header" align="center">
 </div>
